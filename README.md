@@ -55,6 +55,9 @@ Thanks to [t-h-e(sfrost)](https://github.com/t-h-e) for all the [contributions](
 
 Check out for more themes: [**Jekyll Themes**](http://jekyll-themes.com).
 
+## Run local
+[Guide](https://jekyllrb.com/tutorials/using-jekyll-with-bundler/)
+
 ## License
 
 This project is licensed under the [MIT license](LICENSE.txt).
