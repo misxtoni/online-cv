@@ -29,7 +29,7 @@ sidebar:
         level: Native
 
       - idiom: English
-        level: Technical
+        level: Intermediate, Technical
 
 
     interests:
@@ -62,12 +62,12 @@ experiences:
       time:  May 2018 - August 2019
       company: Treembo, Zapopan, Jalisco
       details: |
-        - Mobile app development under React Native.
+        - Mobile app development under React Native (Android & IOS).
     - role: Software Developer
       time:  August 2017 - April 2018
       company: Sitio Random, Zapopan Jalisco
       details: |
-        - Mobile app development under React Native.
+        - Mobile app development under React Native (Android & IOS).
         - Website maintenance and development under Laravel.
         - Development of Magento 2 REST API modules.
 
@@ -158,6 +158,12 @@ skills:
 
       - name: NodeJS & NPM
         level: 85%
+      
+      - name: Android (Java)
+        level: 60%
+      
+      - name: IOS
+        level: 50%
 
       - name: HTML5 & CSS
         level: 80%
@@ -167,6 +173,11 @@ skills:
 
       - name: PHP & Laravel
         level: 70%
+      
+      - name: jQuery & ajax
+        level: 50%
+
+      
 
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
