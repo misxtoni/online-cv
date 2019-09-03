@@ -156,6 +156,24 @@ skills:
       - name: Javascript (ES6)
         level: 98%
 
+      - name: HTML5 & CSS
+        level: 80%
+
+      - name: PHP & Laravel
+        level: 70%
+
+      - name: jQuery & ajax
+        level: 50%
+
+      - name: SQL (Relational Database)
+        level: 90%
+      
+      - name: MongoDB (NoSQL database)
+        level: 70%
+
+      - name: REST API & SOAP (Web services)
+        level: 80%
+        
       - name: NodeJS & NPM
         level: 85%
       
@@ -165,17 +183,16 @@ skills:
       - name: IOS
         level: 50%
 
-      - name: HTML5 & CSS
-        level: 80%
-
       - name: Delphi
         level: 50%
-
-      - name: PHP & Laravel
-        level: 70%
       
-      - name: jQuery & ajax
-        level: 50%
+      - name: Git (Version control)
+        level: 80%
+
+      - name: Scrum (Agile development method)
+        level: 80%
+
+      
 
       
 
