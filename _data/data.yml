@@ -60,13 +60,13 @@ education:
 experiences:
     - role: Sofware Engineer
       time:  Oct. 2019 - Now
-      company: SSF - \"Smart Sofware Factory\", Zapopan, Jalisco
+      company: SSF (Smart Sofware Factory), Zapopan, Jalisco
       details: |
         - Mobile app development under React Native (Android & IOS).
         - Backend development under Spring (Java) and javascript.
         - Web development (frontend) under React.
     - role: Software Developer
-      time:  May. 2018 - Aug. 2019
+      time:  May 2018 - Aug. 2019
       company: Treembo, Zapopan, Jalisco
       details: |
         - Mobile app development under React Native (Android & IOS).
@@ -86,7 +86,7 @@ experiences:
         - Development of ERP and CRM Administrative systems.
         - Design of reports in FastReports and Crystal Reports.
 
-    - role: Web development
+    - role: Software Developer
       time: Jul. 2016 - Feb. 2017
       company: Comercial de especialidades médicas SA de CV, Guadalajara Jalisco
       details: |
@@ -96,7 +96,7 @@ experiences:
         - Activities related to technical support to users.
         - Support and maintenance of computer equipment.
 
-    - role: Web development
+    - role: Software Developer
       time: Aug. 2015 - Feb. 2016
       company: SIAPA - Sistema Intermunicipal de los Servicios de Agua, Guadalajara Jalisco
       details: |
