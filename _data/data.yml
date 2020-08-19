@@ -12,14 +12,14 @@ sidebar:
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: misatony51@gmail.com
-    phone: 332 119 3886 & 332 478 7891
+    email: misael.jpelayo@tuta.io
+    phone: 332 478 7891
     # website: blog.webjeda.com #do not add http://
     # linkedin: alandoe
-    github: misatony
+    github: misxtoni
     # gitlab:
     # bitbucket:
-    twitter: '@misatony51'
+    twitter: '@misxtoni'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -58,7 +58,14 @@ education:
           - Information Systems Orientation.
 
 experiences:
-    - role: Mobile App Developer
+    - role: Sofware Engineer
+      time:  Oct 2019 - Today
+      company: Smart Sofware Factory, Zapopan, Jalisco
+      details: |
+        - Mobile app development under React Native (Android & IOS).
+        - Backend development under Spring (Java) and javascript.
+        - Web development (frontend) under React.
+    - role: Software Developer
       time:  May 2018 - August 2019
       company: Treembo, Zapopan, Jalisco
       details: |
@@ -79,16 +86,17 @@ experiences:
         - Development of ERP and CRM Administrative systems.
         - Design of reports in FastReports and Crystal Reports.
 
-    - role: Systems Intern
+    - role: Web development (Systems Intern)
       time: July 2016 - February 2017
       company: Comercial de especialidades médicas SA de CV, Guadalajara Jalisco
       details: |
         - Development and maintenance of the company's website.
+        - Development on PHP frameworks.
         - Maintenance and configuration of networks.
         - Activities related to technical support to users.
         - Support and maintenance of computer equipment.
 
-    - role: Social Service Provider
+    - role: Web development (Social Service)
       time: August 2015 - February 2016
       company: SIAPA - Sistema Intermunicipal de los Servicios de Agua, Guadalajara Jalisco
       details: |
@@ -151,46 +159,49 @@ skills:
 
     toolset:
       - name: React-Native
-        level: 98%
+        level: 90%
 
       - name: Javascript (ES6)
-        level: 98%
+        level: 90%
+
+      - name: Spring framework (Java)
+        level: 80%
+
+      - name: SQL (Relational Database)
+        level: 85%
+
+      - name: REST API & SOAP (Web services)
+        level: 80%
+
+      - name: NodeJS & NPM
+        level: 85%
 
       - name: HTML5 & CSS
         level: 80%
 
       - name: PHP & Laravel
-        level: 70%
+        level: 40%
 
       - name: jQuery & ajax
-        level: 50%
-
-      - name: SQL (Relational Database)
-        level: 90%
+        level: 45%
       
       - name: MongoDB (NoSQL database)
-        level: 70%
+        level: 40%
 
-      - name: REST API & SOAP (Web services)
-        level: 80%
-        
-      - name: NodeJS & NPM
-        level: 85%
-      
       - name: Android (Java)
         level: 60%
       
       - name: IOS
-        level: 50%
+        level: 60%
 
       - name: Delphi
-        level: 50%
+        level: 40%
       
       - name: Git (Version control)
-        level: 80%
+        level: 70%
 
       - name: Scrum (Agile development method)
-        level: 80%
+        level: 90%
 
       
 

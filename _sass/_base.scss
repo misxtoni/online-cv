@@ -30,7 +30,7 @@ p {
 
 .wrapper {
     background:$theme-color;
-    max-width: 1000px;
+    max-width: 612px;
     margin: 0 auto;
     position: relative;
     @include box-shadow(0px 2px 4px rgba(0,0,0,0.1));
@@ -40,7 +40,7 @@ p {
     background: $theme-color;
     position: absolute;
     right: 0;
-    width: 280px;
+    width: 200px;
     height: 100%;
     min-height: 800px;
     color: #fff;
@@ -155,7 +155,7 @@ p {
 
 .main-wrapper {
     background: #fff;
-    padding: 60px;
+    padding: 20px;
     padding-right: 340px;
     .section-title {
         text-transform: uppercase;
